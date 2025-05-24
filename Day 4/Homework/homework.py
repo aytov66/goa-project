@@ -20,7 +20,6 @@ print("Perimeter:", perimeter)
 # output means the program shows something (for example, print)
 
 
-
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
